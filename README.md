@@ -1,2 +1,2 @@
 # git-learning
-luxio learns to use git
+luxio25 learns to use git
